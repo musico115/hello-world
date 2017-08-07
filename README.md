@@ -1,2 +1,2 @@
 # hello-world
-básico hello word de músico
+básico hello world de músico
